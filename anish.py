@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTyp
 import re
 
 # Replace this with your actual bot token
-BOT_TOKEN = '7508809039:AAG2MaWkfdaJipxSBZ1HDI5DkL7Zl-CDOpk'
+BOT_TOKEN = '7771072127:AAGelOvF6PZY5Ybxb-J05WgEK0OP94lNJ4s'
 
 # Keywords to detect
 KEYWORDS = ['dm karo', 'DM me aao', 'message karo', 'inbox aao']
